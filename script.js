@@ -1,5 +1,5 @@
 const webhookURL = 'https://discord.com/api/webhooks/1380328661735182436/JPZdpr--7qPjvbFK-wYlH2ErG_bcT7HHfbAoXevfcfOALbXbll55TqVWrEMOt1zjffKo';
-  const roleIdToMention = '1378014371447443467';
+  const roleIdToMention = '1380328865322238094';
 
   function showMessage(text, type = 'success') {
     const msgDiv = document.getElementById('formMessage');
