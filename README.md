@@ -19,7 +19,7 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 
 ## 📷 Preview
 
-![Website Preview](https://mhpat.vercel.app/preview.png) <!-- Optional: Replace with an actual preview image if available -->
+![Website Preview](api/placeholder/300/preview.png) 
 
 ## 📁 Getting Started
 
