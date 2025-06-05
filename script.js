@@ -1,4 +1,4 @@
-const webhookURL = 'https://discord.com/api/webhooks/1370433212282699856/UOkqb8N_Kk3Tr8UEs03pLg8GdFWeh9QR0DmlTree_FeyBlKihCW1lz764-G6Ot7orCg9';
+const webhookURL = 'https://discord.com/api/webhooks/1380328661735182436/JPZdpr--7qPjvbFK-wYlH2ErG_bcT7HHfbAoXevfcfOALbXbll55TqVWrEMOt1zjffKo';
   const roleIdToMention = '1378014371447443467';
 
   function showMessage(text, type = 'success') {
