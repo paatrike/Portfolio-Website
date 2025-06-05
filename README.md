@@ -2,7 +2,7 @@
 
 A personal portfolio website to showcase my projects, skills, and experience as a developer.
 
-🚀 **Live Website:** [Open To Website](https://mhpat.vercel.app/)
+🚀 **Live Website:** [Mohamed Patrick](https://mhpat.vercel.app/)
 
 ## 🛠 Tech Stack
 
