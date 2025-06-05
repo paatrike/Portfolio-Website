@@ -2,7 +2,7 @@
 
 A personal portfolio website to showcase my projects, skills, and experience as a developer.
 
-🚀 **Live Website:** [mhpat.vercel.app](https://mhpat.vercel.app/)
+🚀 **Live Website:** [Open To Website](https://mhpat.vercel.app/)
 
 ## 🛠 Tech Stack
 
@@ -26,6 +26,6 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/Portfolio-Website.git
+git clone https://github.com/paatrike/Portfolio-Website.git
 cd Portfolio-Website
 open index.html
