@@ -21,7 +21,7 @@ A personal portfolio website to showcase my projects, skills, and experience as 
 
 ![Website Preview](api/placeholder/300/preview.png) 
 
-## 📁 Getting Started.
+## 📁 Getting Started
 
 To run this project locally:
 
